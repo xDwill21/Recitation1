@@ -45,7 +45,7 @@ G   K    D   O    B
 ```
 ## Let's Password Protect It!
 
-In this Skill Builder, the encryption and decryption functions that were implemented in class will be extended to use a password.  The idea is to utilize the same scheme of shifting the alphabet, except the shifting is relative to the ordinal value of each character in the password.  That is each character in the password or more precisely the ordinal value of each character in the password will form the shift key.
+In this recitation exercise, the encryption and decryption functions that were implemented in class will be extended to use a password.  The idea is to utilize the same scheme of shifting the alphabet, except the shifting is relative to the ordinal value of each character in the password.  That is each character in the password or more precisely the ordinal value of each character in the password will form the shift key.
 
 The following Python functions are provided as skeletons in the cypher.py file.  Instruction on how to obtain this file is provided later in this document.
 
